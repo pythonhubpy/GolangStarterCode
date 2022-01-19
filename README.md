@@ -1,1 +1,1 @@
-# *Go - Learning*
+# _Go - Starter Code_
