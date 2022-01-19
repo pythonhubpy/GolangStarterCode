@@ -21,7 +21,6 @@ func main() {
 		age  int    = 30
 	)
 
-
 	fmt.Println(integer)
 	fmt.Println(integer_new)
 	fmt.Println(newInteger)
